@@ -1,3 +1,6 @@
+# My Twitch Channel Commands
+Here you'll find an overview of commands being used on my [Twitch channel](https://www.twitch.tv/dichternebe1).
+
 ## Common commands
 
 Common commands to be used on the channel.
