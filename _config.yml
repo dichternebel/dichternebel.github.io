@@ -1,5 +1,5 @@
 title: DichterNebel
-description: GitHub Pages.
-show_downloads: true
+description:
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
