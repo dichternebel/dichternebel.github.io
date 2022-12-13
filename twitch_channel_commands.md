@@ -9,15 +9,15 @@ Common commands to be used on the channel.
 |:-----------------|:-----------------------------------------------------------------|:------------------------|:----------:|
 | `!commands`      | Get a list of all available Twitch channel commands              | | `none` |
 | `!help`          | Alias for `!commands`                                            | | `none` |
-| `!lurk`          | Redeemer starts lurking the Twitch channel                       | | `none` |
+| `!lurk`          | User starts lurking the Twitch channel                           | | `none` |
 | `!re`            | Lurker returns into chat of Twitch channel                       | | `none` |
 | `!stream`        | Get information about the current stream                         | | `none` |
 | `!info`          | Get Twitch channel information                                   | | `none` |
 | `!uptime`        | Get elapsed streaming time                                       | | `none` |
 | `!game`          | Get information about currently streamed category                | | `none` |
-| `!followtime`    | Display how long redeemer follows the Twitch channel             | | `none` |
+| `!followtime`    | Display how long user follows the Twitch channel                 | | `none` |
 | `!rank`          | Get information about current rank                               | | `none` |
-| `!dc`            | Get Discord account account information                          | | `none` |
+| `!dc`            | Get Discord account information                                  | | `none` |
 | `!discord`       | Alias for `!dc`                                                  | | `none` |
 | `!steam`         | Get Steam account information                                    | | `none` |
 | `!epic`          | Get Epic account information                                     | | `none` |
