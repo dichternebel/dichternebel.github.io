@@ -38,7 +38,7 @@ Obviously only working when Spotify player is running during the stream.
 | `!queue`         | Alias for `!play`                                                | `!queue where is my mind` | `Follower` |
 | `!song`          | Get information about currently played track                     | | `none` |
 | `!music`         | Alias for `!song`                                                | | `none` |
-| `!playlist`      | Alias for `!song`                                                | | `none` |
+| `!playlist`      | Get information about current playlist                           | | `none` |
 | `!next`          | Get information about next track                                 | | `none` |
 | `!recent`        | Get information about recent track                               | | `none` |
 | `!pause`         | Pause playback in player                                         | | `Mod` |
